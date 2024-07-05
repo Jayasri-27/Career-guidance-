@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.clg-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#navItem1:hover {
+    color: grey;
+}
+
+#navItem2:hover {
+    color: grey;
+}
+
+#navItem3:hover {
+    color: grey;
+}
+
+#navItem4:hover {
+    color: grey;
+}
+.clg-img{
+    width: 100%;
+}
+.home-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dkajwlkzq/image/upload/v1704542281/business-teammates-working-late_gvktol.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.home-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+
+}
+
+
+.para1 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.para3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    padding-top: 80px;
+    font-size: 18px;
+}
+
+.explore-section {
+    background-color: white;
+    text-align: center;
+    height: 140vh;
+}
+
+.explore-cards {
+    border-radius: 16px;
+}
+
+.imgs {
+    width: 100px;
+    height: 100px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.heading1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.headingcom {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bottomSection {
+    height: 100vh;
+}
+
+.inputbox {
+    width: 70%;
+    height: 5%;
+}
+
+.icon {
+    font-size: 32px;
+    padding-right: 10px;
+}
+
+.follow-background {
+    background-color: yellow;
+    background-size: cover;
+}

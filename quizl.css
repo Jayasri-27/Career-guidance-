@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.background {
+    background-image: linear-gradient(#e52e71, #ff8a00);
+    background-size: cover;
+}
+
+.card-container {
+    background-color: white;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.question {
+    font-family: "Bree serif";
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.label {
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 4px;
+}
+
